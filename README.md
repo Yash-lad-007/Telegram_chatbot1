@@ -136,7 +136,7 @@ Support for PDFs, DOCX, and web URLs
 
 👩‍💻 Author
 
-Arpita Lakhe
+Yash Lad
 B.Sc. Computer Science
 Aspiring Data Scientist | AI & GenAI Enthusiast
 
